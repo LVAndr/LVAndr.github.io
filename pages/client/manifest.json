@@ -1,0 +1,81 @@
+{
+  "_chunk-ca62dbf4.js": {
+    "assets": [
+      "assets/static/back.c7706d82.svg",
+      "assets/static/right.1c3d4bff.svg",
+      "assets/static/location-pointer.85499fa8.svg",
+      "assets/static/worktime.306b0910.svg",
+      "assets/static/phone-call.0b35c09e.svg",
+      "assets/static/payment-methods.154547b7.svg"
+    ],
+    "css": [
+      "assets/static/style.3b675344.css"
+    ],
+    "file": "assets/chunks/chunk-ca62dbf4.js"
+  },
+  "node_modules/vite-plugin-ssr/dist/esm/client/server-routing-runtime/entry.js": {
+    "dynamicImports": [
+      "virtual:vite-plugin-ssr:importPageCode:client:/pages/agreement",
+      "virtual:vite-plugin-ssr:importPageCode:client:/pages/index",
+      "virtual:vite-plugin-ssr:importPageCode:client:/pages/answers"
+    ],
+    "file": "assets/entries/entry-server-routing.e461555d.js",
+    "isEntry": true,
+    "src": "node_modules/vite-plugin-ssr/dist/esm/client/server-routing-runtime/entry.js"
+  },
+  "public/img/accordion-images/location-pointer.svg": {
+    "file": "assets/static/location-pointer.85499fa8.svg",
+    "src": "public/img/accordion-images/location-pointer.svg"
+  },
+  "public/img/accordion-images/payment-methods.svg": {
+    "file": "assets/static/payment-methods.154547b7.svg",
+    "src": "public/img/accordion-images/payment-methods.svg"
+  },
+  "public/img/accordion-images/phone-call.svg": {
+    "file": "assets/static/phone-call.0b35c09e.svg",
+    "src": "public/img/accordion-images/phone-call.svg"
+  },
+  "public/img/accordion-images/worktime.svg": {
+    "file": "assets/static/worktime.306b0910.svg",
+    "src": "public/img/accordion-images/worktime.svg"
+  },
+  "public/img/swiper/back.svg": {
+    "file": "assets/static/back.c7706d82.svg",
+    "src": "public/img/swiper/back.svg"
+  },
+  "public/img/swiper/right.svg": {
+    "file": "assets/static/right.1c3d4bff.svg",
+    "src": "public/img/swiper/right.svg"
+  },
+  "style.css": {
+    "file": "assets/static/style.3b675344.css",
+    "src": "style.css"
+  },
+  "virtual:vite-plugin-ssr:importPageCode:client:/pages/agreement": {
+    "file": "assets/entries/pages_agreement.8aae9bcb.js",
+    "imports": [
+      "_chunk-ca62dbf4.js"
+    ],
+    "isDynamicEntry": true,
+    "isEntry": true,
+    "src": "virtual:vite-plugin-ssr:importPageCode:client:/pages/agreement"
+  },
+  "virtual:vite-plugin-ssr:importPageCode:client:/pages/answers": {
+    "file": "assets/entries/pages_answers.5e345dae.js",
+    "imports": [
+      "_chunk-ca62dbf4.js"
+    ],
+    "isDynamicEntry": true,
+    "isEntry": true,
+    "src": "virtual:vite-plugin-ssr:importPageCode:client:/pages/answers"
+  },
+  "virtual:vite-plugin-ssr:importPageCode:client:/pages/index": {
+    "file": "assets/entries/pages_index.d1f3089b.js",
+    "imports": [
+      "_chunk-ca62dbf4.js"
+    ],
+    "isDynamicEntry": true,
+    "isEntry": true,
+    "src": "virtual:vite-plugin-ssr:importPageCode:client:/pages/index"
+  }
+}
